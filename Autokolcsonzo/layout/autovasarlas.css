@@ -1,0 +1,15 @@
+.nav-link dropdown-toggle{
+    padding: 10px;
+}
+
+.navbar{
+    text-align: center;
+}
+
+.nav-item{
+    border: 1px solid black;
+}
+
+.cart{
+    text-align: center;
+}
